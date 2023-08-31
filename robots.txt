@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SirHauler.github.io/sitemap.xml
+Sitemap: https://sirhauler.github.io/sitemap.xml
